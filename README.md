@@ -1,4 +1,4 @@
-Go Hello World Demo
+Go Channel Demo
 ===================
 
 ```
@@ -7,4 +7,3 @@ go get
 go run hello.go
 ```
 
-You will see `Hello, go!`
